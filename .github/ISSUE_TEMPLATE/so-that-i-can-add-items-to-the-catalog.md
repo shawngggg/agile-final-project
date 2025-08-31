@@ -1,6 +1,6 @@
 ---
 name: so that I can add items to the catalog
-about: New User Story
+about: New Item
 title: ''
 labels: ''
 assignees: ''
